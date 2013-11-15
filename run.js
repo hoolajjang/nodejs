@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 var http = require("http");
 =======
-var http = require("http");
+
+var http = require("http");
 >>>>>>> 340c353e637533466b224c7566c73269b65c9348
 
 http.createServer(function(req, res) {
